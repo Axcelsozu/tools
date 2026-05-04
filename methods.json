@@ -1,0 +1,16 @@
+[
+    {"name": "GLORY", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "FLOOD", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "HOLDV1", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "HIT", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "RAPID", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "XYN", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "JAVA", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "TLS", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "STORM", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "BYPASS", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "BROWSER", "description": "layer 7 - Attack Url [normal]", "sts": "ON"},
+    {"name": "UDP", "description": "layer 4 - Attack Ip [normal]", "sts": "ON"},
+    {"name": "TCP", "description": "layer 4 - Attack Ip [normal]", "sts": "ON"},
+    {"name": "OVH", "description": "layer 4 - Attack Ip [normal]", "sts": "ON"}
+]
